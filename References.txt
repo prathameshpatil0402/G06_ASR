@@ -1,0 +1,23 @@
+References Utilized : 
+
+https://keras.io/examples/audio/ctc_asr/
+
+https://towardsdatascience.com/audio-deep-learning-made-simple-automatic-speech-recognition-asr-how-it-works-716cfce4c706
+Audio Deep Learning Made Simple: Automatic Speech Recognition (ASR), How it Works | by Ketan Doshi | Towards Data Science
+
+https://distill.pub/2017/ctc/ Sequence Modeling with CTC
+
+Git & GitHub
+https://youtu.be/gwWKnnCMQ5c
+https://youtu.be/uaeKhfhYE0U?feature=shared
+
+audio data processing:
+https://youtu.be/ZqpSb5p1xQo
+https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0
+
+Audio feature extraction:
+https://youtu.be/PYlr8ayHb4g
+
+https://youtu.be/Qf4YJcHXtcY?feature=shared
+
+https://youtu.be/YereI6Gn3bM?feature=shared
