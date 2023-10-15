@@ -1,0 +1,35 @@
+Research Paper / Articles / Journal Papers reviewd
+
+Bhardwaj, V.; Ben Othman, M.T.; Kukreja, V.; Belkhier, Y.; Bajaj,
+M.; Goud, B.S.; Rehman, A.U.; Shafiq, M.; Hamam, H. Automatic
+Speech Recognition (ASR) Systems for Children: A Systematic Literature
+Review. Appl. Sci. 2022, 12, 4419.
+
+Song, William, and Jim Cai. ”End-to-end deep neural network for
+automatic speech recognition.” Standford CS224D Reports (2015): 1-8.
+
+Graves, A. (2012). Connectionist Temporal Classification. In: Supervised
+Sequence Labelling with Recurrent Neural Networks. Studies in Compu-
+tational Intelligence, vol 385. Springer, Berlin, Heidelberg.
+
+
+Iancu, Bogdan. ”Evaluating Google speech-to-text API’s performance for
+Romanian e-learning resources.” Informatica Economica 23.1 (2019)
+
+
+Iosifova, O., Iosifov, I., Sokolov, V. Y., Romanovskyi, O., & Sukaylo, I.
+(2021). Analysis of automatic speech recognition methods.
+
+
+Graves, A., Fern ́andez, S., Gomez, F., & Schmidhuber, J. (2006, June).
+Connectionist temporal classification: labelling unsegmented sequence
+data with recurrent neural networks. In Proceedings of the 23rd inter-
+national conference on Machine learning (pp. 369-376).
+
+
+Ghai, Wiqas, and Navdeep Singh. ”Literature review on automatic speech
+recognition.” International Journal of Computer Applications 41.8 (2012).
+
+
+S. Alharbi et al., ”Automatic Speech Recognition: Systematic Literature
+Review,” in IEEE Access, vol. 9, pp
